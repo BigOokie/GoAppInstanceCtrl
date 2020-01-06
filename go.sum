@@ -1,0 +1,4 @@
+github.com/marcsauter/single v0.0.0-20191217065835-82e78df7afac h1:6VwuloHePBu58X35Qqwfy4oAz4osbrCZZxV5NGdy0Tk=
+github.com/marcsauter/single v0.0.0-20191217065835-82e78df7afac/go.mod h1:uUA07IN7rYmbr5YlZM5nDVLyoxiqqpprFlXBrjqI24A=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
