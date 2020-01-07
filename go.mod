@@ -1,4 +1,4 @@
-module github.com/BigOokie/GoAppInstanceCtrl
+module github.com/BigOokie/goappinstancectrl
 
 go 1.13
 
